@@ -37,3 +37,14 @@ hxxp[://]64[.]188[.]27[.]73/board/tour_upt.html
 151[.]106[.]2[.]139 
 66[.]154[.]102[.]91
 ```
+# C2 servers
+```
+hxxp[://]155[.]94[.]210[.]11/news/page[.]php
+hxxp[://]192[.]186[.]183[.]133/bbs/board[.]php
+hxxp[://]213[.]32[.]46[.]0/board[.]php
+hxxp[://]54[.]68[.]42[.]4/mainboard[.]php
+hxxp[://]84[.]38[.]133[.]145/apollom/jeus[.]php
+hxxp[://]mudeungsan[.]or[.]kr/gbbs/bbs/template/g_botton[.]php
+hxxp[://]www[.]easyview[.]kr/board/Kheader[.]php
+hxxp[://]www[.]easyview[.]kr/board/mb_admin[.]php
+```
